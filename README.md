@@ -93,12 +93,15 @@ The dataset contains healthcare-related information including:
 ## 📁 Project Structure
 
 ```
-Healthcare Dashboard
+Healthcare_Dataset_Project_2/
 │
 ├── Healthcare_Dataset_Project_2.pbix
-├── Dataset.csv
-├── Dashboard Screenshot.png
-└── README.md
+├── README.md
+│
+└── Images/
+    ├── Healthcare_Dataset_Project_2-1.png
+    ├── Healthcare_Dataset_Project_2-2.png
+    └── Healthcare_Dataset_Project_2-3.png
 ```
 
 ---
@@ -114,11 +117,9 @@ Healthcare Dashboard
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
-Example:
-
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Images/Healthcare_Dataset_Project_2-1.png)
+![Dashboard Preview](Images/Healthcare_Dataset_Project_2-2.png)
+![Dashboard Preview](Images/Healthcare_Dataset_Project_2-3.png)
 
 ---
 
